@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "melvinkusters-portfolio",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "A collection of blogs I wrote about my contributions as a software engineer.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
