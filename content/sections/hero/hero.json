@@ -1,7 +1,7 @@
 {
   "intro": "Welcome!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/avatar_large.png",
     "alt": "My Photo"
   },
   "image": {
@@ -11,7 +11,7 @@
   "title": "You've reached Melvin's Software Portfolio",
   "subtitle": {
     "prefix": "I post ",
-    "highlight": "blogs about my projects",
+    "highlight": "blogs about my contributions",
     "suffix": " here."
   },
   "description": "You can also find my resumé, contact info and other contributions.",

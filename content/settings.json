@@ -11,7 +11,6 @@
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/Seraphix0",
-      "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/melvin-kusters/",
       "mail": "mailto:melvinkusters0@gmail.com"
     }
@@ -22,8 +21,8 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Highlights", "url": "/#highlights" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
