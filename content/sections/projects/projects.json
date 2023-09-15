@@ -2,13 +2,30 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ SOFTWARE ARCHITECTURE",
-      "title": "What makes a good Microservice?",
-      "description": "Join me as I realize user requirements for one of my clients. We'll see why employing a microservice design works well in this instance, and which considerations to make to ensure a proper implementation.",
-      "tags": ["Microservices", "Distributed Systems"],
+      "category": "🧰 FULL-TIME SOFTWARE ARCHITECT",
+      "title": "A voice for 450+ medical specialists",
+      "description": "In early 2020, the Dutch national palliative care (IKNL) set out to unify their staff planning and telecommunications under one system. It fell upon me to design and implement this system. The result was a hugely complex but effective system responsible for € 500k+ savings and simplifying daily workflows.",
+      "tags": ["End-to-End Ownership", "Leadership", "Greenfield Project", "Enterprise Distributed Systems"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "src": "../../images/1920_palliatievezorg.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ FREELANCE SOFTWARE ENGINEER",
+      "title": "Championing excellence in architecture",
+      "description": "My first freelance job saw me working at Selfcare, a company developing a state-of-the-art online medical dossier and revolutionizing Dutch healthcare. Noticing room for improvement, I took charge of a major refactoring effort to bring the core system architecture in line with modern standards.",
+      "tags": ["Contributing Role", "Innovation Vanguard", "Enterprise Distributed Systems"],
+      "image": {
+        "src": "../../images/Privacy_Selfcare.png",
+        "alt": "Selfcare",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
       "links": [
@@ -21,28 +38,11 @@
           "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 PROJECT RECAP",
-      "title": "A voice for 450+ medical specialists",
-      "description": "In early 2020, the Dutch national palliative care set out to unify their staff planning and telecommunications under one system. It fell upon me to design and implement this system. Now, years later - I look back to appreciate what victories were achieved and what lessons can be learnt.",
-      "tags": ["Enterprise Development", "Project Strategy"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Explore My Projects",
+    "url": "/MelvinKustersExtendedCV.pdf"
   }
 }

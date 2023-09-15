@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Melvin Kusters" },
+    "logo": { "text": "Melvin Kusters - Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -26,8 +26,8 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Resumé",
+        "url": "/MelvinKustersExtendedCV.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
