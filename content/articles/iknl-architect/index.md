@@ -3,9 +3,9 @@ title: "A voice for 450+ medical specialists"
 description: "Melvin Kusters as Software Architect for IKNL | Slimroosteren"
 date: "2022-05-28"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  src: "../../images/oplettende-artsen-tijdens-MDO.jpg"
   alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  caption: 'Photo by <u><a href="https://iknl.nl/getmedia/bd598f2e-3693-44d8-8da7-6cc850179b3c/oplettende-artsen-tijdens-MDO.jpg?width=1000&height=667&ext=.jpg">IKNL</a></u>'
 categories:
   - "Working Experience Highlight"
 keywords:

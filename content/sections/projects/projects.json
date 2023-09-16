@@ -7,7 +7,7 @@
       "description": "In early 2020, the Dutch national palliative care (IKNL) set out to unify their staff planning and telecommunications under one system. It fell upon me to design and implement this system. The result was a hugely complex but effective system responsible for € 500k+ savings and simplifying daily workflows.",
       "tags": ["End-to-End Ownership", "Leadership", "Greenfield Project", "Enterprise Distributed Systems"],
       "image": {
-        "src": "../../images/1920_palliatievezorg.jpg",
+        "src": "../../images/oplettende-artsen-tijdens-MDO.jpg",
         "alt": "Extendable Layout",
         "linkTo": "/iknl-architect"
       },
