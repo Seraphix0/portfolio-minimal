@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A collection of blogs I wrote about my contributions as a software engineer.",
     "author": "Melvin Kusters",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "./images/avatar_large.png",
     "bio": "Dutch software engineer specializing in .NET development with 5+ years of experience.",
     "social": {
       "behance": "https://behance.com",
