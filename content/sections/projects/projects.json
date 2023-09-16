@@ -26,8 +26,7 @@
       "tags": ["Contributing Role", "Innovation Vanguard", "Enterprise Distributed Systems"],
       "image": {
         "src": "../../images/Privacy_Selfcare.png",
-        "alt": "Selfcare",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "alt": "Selfcare"
       },
       "links": []
     }
