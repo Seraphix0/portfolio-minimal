@@ -1,6 +1,6 @@
 ---
 title: "A voice for 450+ medical specialists"
-description: "Melvin Kusters as Software Architect for Stichting Fibula | Slimroosteren"
+description: "Melvin Kusters as Software Architect for IKNL | Slimroosteren"
 date: "2022-05-28"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
@@ -11,11 +11,11 @@ categories:
 keywords:
   - "Software"
   - "Architect"
-  - "Fibula"
+  - "IKNL"
   - "Slimroosteren"
 ---
 
-In the ever-evolving landscape of healthcare technology, I had the privilege of serving as a Software Architect at Stichting Fibula in Utrecht from February 2020 to April 2022. During this transformative journey, I played a pivotal role in architecting and developing Slimroosteren, a groundbreaking SaaS solution that redefined scheduling and call routing for Stichting Fibula's palliative consultation line. In this portfolio blog post, I invite you to explore the challenges, achievements, and innovations that characterized my role in this remarkable project.
+In the ever-evolving landscape of healthcare technology, I had the privilege of serving as a Software Architect at Integraal Kankercentrum Nederland (IKNL) in Utrecht from February 2020 to April 2022. During this transformative journey, I played a pivotal role in architecting and developing Slimroosteren, a groundbreaking SaaS solution that redefined scheduling and call routing for IKNL's palliative consultation line. In this portfolio blog post, I invite you to explore the challenges, achievements, and innovations that characterized my role in this remarkable project.
 
 ## Tech Stack and Role Summary
 
@@ -29,7 +29,7 @@ Our journey commenced with an ambitious vision: empower over 400 palliative care
 
 As the architect for Slimroosteren, I wore multiple hats throughout the project's lifecycle. My journey began by bridging the gap between user requirements and the technical implementation. I collaborated closely with our Agile/Scrum team and occasionally conducted interviews with domain experts to ensure our solution was finely tuned to the needs of palliative care providers.
 
-Having shaped the initial project definition, I took on the challenging task of designing the system architecture from scratch. Employing a monthly sprint cycle, I developed Slimroosteren, meticulously refining it as we progressed. Fibula conducted a comprehensive review and inspection, granting approval for deployment to a redundant cloud infrastructure.
+Having shaped the initial project definition, I took on the challenging task of designing the system architecture from scratch. Employing a monthly sprint cycle, I developed Slimroosteren, meticulously refining it as we progressed. IKNL conducted a comprehensive review and inspection, granting approval for deployment to a redundant cloud infrastructure.
 
 Following deployment, I embraced the operational responsibilities of the project. This entailed supporting users across 25 regions and accommodating feature requests for the system's entire lifespan. Guided by a streamlined pipeline, we automated the building, testing, and deployment processes, ensuring efficiency and reliability.
 
@@ -45,6 +45,6 @@ Slimroosteren is a distributed system comprising two interoperating microservice
 
 ## Conclusion
 
-In retrospect, my role as a Software Architect at Stichting Fibula was not just a professional experience but a transformative journey in healthcare technology. Slimroosteren has left an indelible mark, revolutionizing scheduling and call routing for palliative care consultants across the nation. It stands as a testament to innovation, collaboration, and the relentless pursuit of excellence in the world of software architecture.
+In retrospect, my role as a Software Architect at IKNL was not just a professional experience but a transformative journey in healthcare technology. Slimroosteren has left an indelible mark, revolutionizing scheduling and call routing for palliative care consultants across the nation. It stands as a testament to innovation, collaboration, and the relentless pursuit of excellence in the world of software architecture.
 
 Thank you for joining me on this journey, and I look forward to the exciting challenges and innovations that the future holds in this ever-evolving field.

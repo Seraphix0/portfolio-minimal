@@ -8,12 +8,13 @@
       "tags": ["End-to-End Ownership", "Leadership", "Greenfield Project", "Enterprise Distributed Systems"],
       "image": {
         "src": "../../images/1920_palliatievezorg.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "/iknl-architect"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "/iknl-architect"
         }
       ]
     },
@@ -28,16 +29,7 @@
         "alt": "Selfcare",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+      "links": []
     }
   ],
   "button": {
