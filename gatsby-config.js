@@ -5,7 +5,7 @@ module.exports = {
       options: {
         siteUrl: "http://melvinkusters.com//", // Used for sitemap generation
         manifestSettings: {
-          favicon: "./content/images/high-voltage.png", // Path is relative to the root
+          favicon: "./content/images/m_logo.png", // Path is relative to the root
           siteName: "Melvin's Portfolio", // Used in manifest.json
           shortName: "Melvin Kusters", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
@@ -25,5 +25,57 @@ module.exports = {
         // }
       },
     },
+    {
+      resolve: `gatsby-plugin-realfavicongenerator`,
+      options: {
+        apiKey: '63cee9c53a05fc0cf73e6461d02368921d380a77',
+        masterPicture: 'content/images/m_logo.png',
+        appName: 'Melvin Kusters - Portfolio',
+        startUrl: '/',
+        themeColor: '#000',
+        display: 'standalone',
+        defaultBackgroundColor: '#000',
+        defaultMargin: '10%',
+        compression: 3,
+        scalingAlgorithm: 'Lanczos',
+        ios: {
+          enabled: true,
+          onlyDefaultIcons: false,
+          legacyIcons: true,
+          precomposedIcons: true,
+        },
+        windows: {
+          enabled: true,
+          silhouette: true,
+        },
+        android: {
+          enabled: true,
+          legacyIcons: true,
+          lowResIcons: true,
+        },
+        safariPinnedTab: {
+          enabled: true,
+          threshold: 60,
+          silhouette: true,
+        },
+        openGraph: {
+          enabled: true,
+          ratio: 'square',
+        },
+        transformGeneratedManifest: (manifest) => {
+          manifest.scope = '/';
+          if (manifest.icons) {
+            manifest.icons = manifest.icons.map((icon) => {
+              return {
+                ...icon,
+                purpose: 'maskable',
+              };
+            });
+          }
+
+          return manifest;
+        },
+      },
+    }
   ],
 };
