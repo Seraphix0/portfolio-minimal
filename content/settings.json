@@ -10,13 +10,12 @@
     "bio": "Dutch software engineer specializing in .NET development with 5+ years of experience.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/Seraphix0",
       "linkedin": "https://www.linkedin.com/in/melvin-kusters/",
       "mail": "mailto:melvinkusters0@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Melvin Kusters - Portfolio" },
+    "logo": { "text": "Melvin Kusters" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
