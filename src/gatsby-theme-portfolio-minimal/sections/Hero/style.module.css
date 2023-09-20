@@ -15,7 +15,7 @@
     font-weight: 700;
     font-size: 2rem;
     line-height: 2.375rem;
-    color: aqua;
+    color: #F57433; /* edited */
 }
 
 .Hero .Subtitle {
@@ -57,7 +57,7 @@
         font-size: 2.625rem;
         line-height: 4rem;
         margin-bottom: 0;
-        color: aqua;
+        color: #F57433; /* edited */
     }
 
     .Hero .Subtitle {
