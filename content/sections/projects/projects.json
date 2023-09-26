@@ -2,9 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "🧰 FULL-TIME SOFTWARE ARCHITECT",
-      "title": "A voice for 450+ medical specialists",
-      "description": "In early 2020, the Dutch national palliative care (IKNL) set out to unify their staff planning and telecommunications under one system. It fell upon me to design and implement this system. The result was a hugely complex but effective system responsible for € 500k+ savings and simplifying daily workflows.",
+      "category": "🧰 SOFTWARE ARCHITECT",
+      "title": "A voice for 400 medical specialists",
+      "description": "In early 2020, the Dutch national palliative care (IKNL) set out to unify their staff planning and telecommunications under one system. It fell upon me to design and implement this system. The result was a hugely complex but effective system creating an estimated €2m in yearly savings and simplifying daily workflows.",
       "tags": ["End-to-End Ownership", "Leadership", "Greenfield Project", "Enterprise Distributed Systems"],
       "image": {
         "src": "../../images/oplettende-artsen-tijdens-MDO.jpg",
@@ -22,7 +22,7 @@
       "visible": true,
       "category": "🕹️ FREELANCE SOFTWARE ENGINEER",
       "title": "Championing excellence in architecture",
-      "description": "My first freelance job saw me working at Selfcare, a company developing a state-of-the-art online medical dossier and revolutionizing Dutch healthcare. Noticing room for improvement, I took charge of a major refactoring effort to bring the core system architecture in line with modern standards.",
+      "description": "My first freelance job saw me working at Selfcare, a company developing a state-of-the-art online medical dossier and revolutionizing Dutch healthcare. Noticing room for improvement, I took charge of a major refactoring effort to bring a core system component in line with modern standards.",
       "tags": ["Contributing Role", "Innovation Vanguard", "Enterprise Distributed Systems"],
       "image": {
         "src": "../../images/selfcare-pgo.png",
