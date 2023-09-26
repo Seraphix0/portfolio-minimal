@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resumé",
-        "url": "/MelvinKustersExtendedCV.pdf"
+        "url": "/MelvinKustersCV.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
